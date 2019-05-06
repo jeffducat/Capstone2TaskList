@@ -1,0 +1,7 @@
+C:\Users\jduca\source\repos\Capstone2TaskList\Capstone2TaskList\obj\Debug\Capstone2TaskList.csprojAssemblyReference.cache
+C:\Users\jduca\source\repos\Capstone2TaskList\Capstone2TaskList\obj\Debug\Capstone2TaskList.csproj.CoreCompileInputs.cache
+C:\Users\jduca\source\repos\Capstone2TaskList\Capstone2TaskList\bin\Debug\Capstone2TaskList.exe.config
+C:\Users\jduca\source\repos\Capstone2TaskList\Capstone2TaskList\bin\Debug\Capstone2TaskList.exe
+C:\Users\jduca\source\repos\Capstone2TaskList\Capstone2TaskList\bin\Debug\Capstone2TaskList.pdb
+C:\Users\jduca\source\repos\Capstone2TaskList\Capstone2TaskList\obj\Debug\Capstone2TaskList.exe
+C:\Users\jduca\source\repos\Capstone2TaskList\Capstone2TaskList\obj\Debug\Capstone2TaskList.pdb
